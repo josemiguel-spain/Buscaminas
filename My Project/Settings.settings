@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="easyRecord" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">99999</Value>
+    </Setting>
+    <Setting Name="mediumRecord" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">99999</Value>
+    </Setting>
+    <Setting Name="hardRecord" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">99999</Value>
+    </Setting>
+    <Setting Name="backgroundMusic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="customHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="customWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="lastGame" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="customMines" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
